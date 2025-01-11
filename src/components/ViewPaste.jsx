@@ -65,7 +65,7 @@ const ViewPaste = () => {
             style={{
               caretColor: "#000",
             }}
-            rows={20}
+            rows={25}
           />
         </div>
       </div>
